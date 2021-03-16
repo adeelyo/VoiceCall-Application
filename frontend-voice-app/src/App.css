@@ -1,0 +1,12 @@
+input#fromNumber {
+    margin: 10px;
+}
+.number-input {
+  margin: 20px;
+}
+.timer-input {
+  margin: 20px;
+}
+input#toNumber {
+  margin: 10px;
+}
